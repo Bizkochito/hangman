@@ -8,7 +8,7 @@ A game of Hangman plays as a loop of turns, during which:
   - it asks for input from the player - only new single letters are accepted,
   - depending on the guess being right or wrong, the player discovers letters or loses lives.
 
-The player is given 5 lives. When he is out of lives, the game is over.
+The player is given 5 lives. When they're out of lives, the game is over.
 
 ## Example of the game running:
 
