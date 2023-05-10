@@ -11,7 +11,7 @@ class Hangman:
         self.correctly_guessed_letters = ["_"]*len(self.word_to_find)
         self.correct_letters_count = 0
         self.wrongly_guessed_letters =[]
-        self.turn_count = 0
+        self.turn_count = 1
         self.error_count = 0
 
     
@@ -24,7 +24,7 @@ class Hangman:
         Evaluation happens in other methods.
         """
 
-        guess = ""
+        guess = input("Give me a letter: ")
         while not self.check_input(guess):
             guess = input("Give me a letter: ")
         self.evaluate(guess) 
