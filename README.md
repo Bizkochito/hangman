@@ -3,9 +3,9 @@
 To start a game, execute the src/main.py file.
 
 ## Rules
-A game of Hangman plays like this:
-  - the terminal shows the player a blank word.
-  - it asks for input from the player. Only new single letters are accepted.
+A game of Hangman plays as a loop of turns, during which:
+  - the terminal shows the player a blank word,
+  - it asks for input from the player - only new single letters are accepted,
   - depending on the guess being right or wrong, the player discovers letters or loses lives.
 
 The player is given 5 lives. When he is out of lives, the game is over.
