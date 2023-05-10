@@ -1,6 +1,13 @@
 # Hangman
 **Hangman** is a simple application of a one-player Hangman game.
 To start a game, execute the src/main.py file.
+## Installation
+The script uses the following libraries:
+  - random
+  - typing
+  - re
+Python v3 or above is required.
+Clone the repository and run src/main.py
 
 ## Rules
 A game of Hangman plays as a loop of turns, during which:
