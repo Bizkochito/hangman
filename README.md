@@ -12,5 +12,7 @@ The player is given 5 lives. When he is out of lives, the game is over.
 
 ## Example of the game running:
 
+![alt text](https://github.com/Bizkochito/hangman/blob/main/assets/running_example.png?raw=true)
+
   
   
