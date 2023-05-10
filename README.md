@@ -10,5 +10,7 @@ A game of Hangman plays like this:
 
 The player is given 5 lives. When he is out of lives, the game is over.
 
+## Example of the game running:
+
   
   
