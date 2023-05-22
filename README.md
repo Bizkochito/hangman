@@ -6,6 +6,7 @@ The script uses the following libraries:
   - random
   - typing
   - re
+ 
 Python v3 or above is required.
 Clone the repository and run src/main.py
 
